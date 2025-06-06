@@ -8,7 +8,7 @@ The goal was to deepen our understanding of linked lists.
 ## Features
 
 - **TUI-Based Menu:**
-  - Login as a player (requires registring the player before)
+  - Login as a player (requires registering the player before)
   - Add/Delete a player
   - Add/Delete a quetion
   - load player statistics and information  
